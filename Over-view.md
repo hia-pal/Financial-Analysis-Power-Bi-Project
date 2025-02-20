@@ -3,6 +3,10 @@
 In-depth analysis of financial condition of seven countries [USA, Canada, UK, New Zealand, France, Australia, Germany] over a period of three years [2018-2020]. 
 To show such, a two part PowerBI dashboard has been created using DAX [Data Analysis Expressions] formulas. 
 
+# Dataset Used: https://docs.google.com/spreadsheets/d/15KkpBTpTa-06h9XYM4Caf2TK5BS-hz1B/edit?usp=drive_link&ouid=105785293732362848273&rtpof=true&sd=true
+
+## PowerBI Dashboard Photo: https://drive.google.com/file/d/1R0X1iTDmBKj8dK2BYMTO-j2mCQtt1x_6/view?usp=drive_link
+
 Schowcased elements include: 
 1. Sales Revenue including cost of sales, operating account, depreciation and amortization, non operating and more.
 2. Funds Transfer Pricing [FTP]
